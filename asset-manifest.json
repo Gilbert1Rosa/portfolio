@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.26d3fac3.css",
-    "main.js": "/static/js/main.8be8cf43.js",
-    "index.html": "/index.html",
-    "main.26d3fac3.css.map": "/static/css/main.26d3fac3.css.map",
-    "main.8be8cf43.js.map": "/static/js/main.8be8cf43.js.map"
+    "main.css": "/gilbert1rosa.github.io/portfolio/static/css/main.26d3fac3.css",
+    "main.js": "/gilbert1rosa.github.io/portfolio/static/js/main.8be8cf43.js",
+    "index.html": "/gilbert1rosa.github.io/portfolio/index.html",
+    "main.26d3fac3.css.map": "/gilbert1rosa.github.io/portfolio/static/css/main.26d3fac3.css.map",
+    "main.8be8cf43.js.map": "/gilbert1rosa.github.io/portfolio/static/js/main.8be8cf43.js.map"
   },
   "entrypoints": [
     "static/css/main.26d3fac3.css",
