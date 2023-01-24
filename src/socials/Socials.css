@@ -1,0 +1,9 @@
+.socials {
+    padding: 10px;
+    position: relative;
+    left: 36%;
+}
+
+.socials .social-item {
+    padding-right: 15px;
+}
